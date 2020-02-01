@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\bin\Debug\Projeto.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\bin\Debug\Projeto.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\bin\Debug\Projeto.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.pdb
